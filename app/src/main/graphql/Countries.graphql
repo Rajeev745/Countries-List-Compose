@@ -1,0 +1,9 @@
+query CountriesQuery {
+    countries {
+        name
+        currency
+        emoji
+        code
+        capital
+    }
+}
